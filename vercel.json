@@ -8,6 +8,11 @@
         }
     ],
     "env": {
+        "APP_ENV": "production",
+        "APP_DEBUG": "true",
+        "APP_URL": "https://example-ruddy-five.vercel.app",
+        "APP_KEY": "base64:IhKgLA1OP5VmagTf256jrFoj4ws75gPZt+lA2WLr8Co=",
+
         "ASSET_URL": "/",
         "SESSION_DRIVER": "cookie",
         "CACHE_DRIVER": "database",
